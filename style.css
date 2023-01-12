@@ -1,0 +1,15 @@
+#vin{color: red;}
+.nan{color: orange;font-size: 25px;}
+	body{background-image: url(https://www.fonewalls.com/wp-content/uploads/1080x1920-Background-HD-Wallpaper-395.jpg);
+		background-repeat: no-repeat;background-size: cover; }
+		.img{border: 10px dashed black;
+			padding: 30px;
+			margin: 10px;}
+
+a:link{color: green;} a:visited{color:purple;} a:hover{background-color: orange;color: white;}
+a{font-size: 25px;text-decoration: none;
+	float: left;
+	padding-left: 8px;
+	padding-right: 8px;
+	background-color: white;
+}
