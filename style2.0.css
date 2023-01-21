@@ -1,0 +1,17 @@
+#vin{color: orange;font-size: 30px;border: 2px solid orange;}
+.nan{color: white;margin-left: 20px;margin-right: 20px;}
+h2{margin-left: 25px;}
+#img{margin: 50px;
+border: 10px solid pink;
+padding: 35px;}
+#imgg{margin: 20px;
+padding: 15px;
+border: 10px dotted darkred;}
+.mydiv{background-color: pink;border: 3px;padding: 5px;margin-right: 1100px;}
+body{background-image: url(https://i.pinimg.com/originals/ae/ff/83/aeff831329b2ea82282e3eb0c669bd97.jpg);
+	background-repeat: no-repeat;background-size: cover;}
+	a:link{color: darkred;}
+	a:hover{background-color: orange;color: black;}
+	a:visited{color: white;}
+	a:active{color: pink;}
+	a{font-size: 25px;}
